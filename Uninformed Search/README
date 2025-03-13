@@ -1,0 +1,18 @@
+# Deskripsi Repository
+Repositori ini berisi implementasi tiga algoritma pencarian fundamental dalam ilmu komputer: Depth-First Search (DFS), Breadth-First Search (BFS), dan Uniform Cost Search (UCS). 
+Ketiga algoritma ini sering digunakan dalam pencarian jalur, pencarian ruang keadaan, dan berbagai aplikasi lainnya dalam kecerdasan buatan dan teori graf.
+
+# Di Repository ini terdapat 3 algoritma pencarian UNINFORMED SEARCH yaitu DFS, BFS, dan UCS.
+  Dimana setiap algoritma tersebu memiliki penjelasan singkat sebagai berikut :
+1. Depth-First Search (DFS)
+
+a) DFS adalah algoritma pencarian yang menjelajahi simpul secara mendalam sebelum berpindah ke simpul lainnya.
+Algoritma ini menggunakan struktur data stack (baik secara eksplisit maupun melalui rekursi).
+
+b) BFS adalah algoritma pencarian yang menjelajahi simpul berdasarkan tingkatannya sebelum berpindah ke tingkat berikutnya. 
+Algoritma ini menggunakan struktur data queue.
+
+c) UCS adalah algoritma pencarian yang mengutamakan simpul dengan biaya paling rendah. Algoritma ini mirip dengan BFS tetapi 
+menggunakan Priority Queue untuk memilih simpul dengan biaya terendah terlebih dahulu.
+
+Pada repository ini juga terdapat output dalam berupa ScreeenShot dari setiap algoritma nya.
